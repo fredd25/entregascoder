@@ -1,2 +1,0 @@
-# entregascoder
-tareas
